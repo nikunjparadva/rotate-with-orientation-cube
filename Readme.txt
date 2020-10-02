@@ -19,3 +19,5 @@ The code is mostly the very excellent ports of the NeHe OpenGL tutorials with
 a few brutal changes. You can see the originals here:
 http://nehe.gamedev.net
 http://www.insanitydesign.com/
+
+Thank you 😊
